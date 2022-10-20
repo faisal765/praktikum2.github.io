@@ -1,0 +1,49 @@
+textarea {
+    width:250;
+    height:100;
+}
+.pertama{
+    background-color: white;
+    width:65%;
+    height:auto;
+    align-items:center;
+    text-align:left;
+    margin:auto;
+    margin-top:5px;
+    padding-bottom:5px;
+}
+nav ul{
+    padding:1px;
+    margin: 2px;
+    overflow:hidden;
+    background-color:blue;
+    border:1px solid gainsboro;
+}
+nav li{
+    display:inline-block;
+    color:whitesmoke;
+    text-align:center;
+    padding:10px 15px;   
+}
+.kembali{
+    text-decoration:none;
+}
+footer {
+    clear:both;
+    width:98.8%;
+    height:auto;
+    text-align:center;
+    margin:5px 5px 5px 5px;
+    border-radius:3px;
+    border-bottom:2px solid gainsboro;
+    padding-top:15px;
+    padding-bottom:15px;   
+}
+
+.logo {
+    padding: 10px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size: 25px;
+}
